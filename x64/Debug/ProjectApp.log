@@ -1,0 +1,3 @@
+﻿  pi.c
+D:\OpenMPApp\ProjectApp\pi.c(14,12): warning C4101: start: неиспользованная локальная переменная
+  ProjectApp.vcxproj -> D:\OpenMPApp\ProjectApp\x64\Debug\ProjectApp.exe
